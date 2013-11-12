@@ -4,7 +4,7 @@
 - Jquery Ajax dynamicly update database
 - HTML/CSS user interface design
 - PDO is used to prevent sql injection security
-- Allow the user to remove entries from your table dynamically
+- Allow the user to remove entries from table dynamically
 
 Setting
 ------------
